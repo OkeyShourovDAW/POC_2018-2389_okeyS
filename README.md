@@ -1,11 +1,13 @@
                                    Product Of DarkAlienWeb
                                             (DAW)
+                                     www.okeyshourov.com
               ____             _        _    _ _         __        __   _     
              |  _ \  __ _ _ __| | __   / \  | (_) ___ _ _\ \      / /__| |__  
              | | | |/ _` | '__| |/ /  / _ \ | | |/ _ \ '_ \ \ /\ / / _ \ '_ \ 
              | |_| | (_| | |  |   <  / ___ \| | |  __/ | | \ V  V /  __/ |_) |
              |____/ \__,_|_|  |_|\_\/_/   \_\_|_|\___|_| |_|\_/\_/ \___|_.__/ 
                                                      beta~1 (From daw.consoleX beta2)
+                                 
 
 
 
@@ -19,8 +21,8 @@
 #WARNING: do not download the tool from any other website.
 
 #DOWNLOAD
-    
-         1~ https://webpentesting.000webhostapp.com   (official website)
+         
+         1~ https://www.okeyshourov.com
          2~ https://github.com/OkeyShourovDAW/POC_2018-2389_okeyS_repos.git (official github)
          
          clone it via copy & past > git clone https://github.com/OkeyShourovDAW/POC_2018-2389_okeyS_repos.git
